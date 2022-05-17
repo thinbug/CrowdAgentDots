@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/CrowdAgentUnity/Temp
+/CrowdAgentUnity/Library
+/CrowdAgentUnity/Logs
